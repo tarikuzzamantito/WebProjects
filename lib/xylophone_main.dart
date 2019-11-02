@@ -16,6 +16,7 @@ class XylophoneApp extends StatelessWidget {
         onPressed: () {
           playSound(soundNumber);
         },
+        child: null,
       ),
     );
   }
@@ -45,12 +46,5 @@ class XylophoneApp extends StatelessWidget {
         ),
       ),
     );
-  }
-}
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return null;
   }
 }
