@@ -1,3 +1,4 @@
+const bitcoinURL = 'https://apiv2.bitcoinaverage.com/indices/global/ticker/BTC';
 const List<String> currenciesList = [
   'AUD',
   'BRL',
