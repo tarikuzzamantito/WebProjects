@@ -1,5 +1,3 @@
-import 'dart:io';
-
 main() {
   performTasks();
 }
@@ -11,7 +9,7 @@ void performTasks() async {
 }
 
 void task1() {
-  String result = 'task 1 data';
+  //String result = 'task 1 data';
   print('Taks 1 complete');
 }
 
@@ -26,6 +24,6 @@ Future<String> task2() async {
 }
 
 void task3(String task2Data) {
-  String result = 'taks 3 data';
+  //String result = 'taks 3 data';
   print('Taks 3 complete with $task2Data');
 }

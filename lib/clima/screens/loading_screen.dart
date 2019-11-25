@@ -1,6 +1,4 @@
 import 'package:dev_udemy_angelayu/clima/screens/location_screen.dart';
-import 'package:dev_udemy_angelayu/clima/services/location.dart';
-import 'package:dev_udemy_angelayu/clima/services/networking.dart';
 import 'package:dev_udemy_angelayu/clima/services/weather.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';

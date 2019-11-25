@@ -1,5 +1,4 @@
 import 'package:dev_udemy_angelayu/bmi_calculator/screens/input_page.dart';
-import 'package:dev_udemy_angelayu/bmi_calculator/screens/results_page.dart';
 import 'package:flutter/material.dart';
 
 // UI design https://dribbble.com/shots/4585382-Simple-BMI-Calculator/attachments/1036693
