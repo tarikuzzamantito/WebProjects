@@ -2,9 +2,12 @@ import 'package:dev_udemy_angelayu/flash_chat/screens/chat_screen.dart';
 import 'package:dev_udemy_angelayu/flash_chat/screens/login_screen.dart';
 import 'package:dev_udemy_angelayu/flash_chat/screens/registration_screen.dart';
 import 'package:dev_udemy_angelayu/flash_chat/screens/welcome_screen.dart';
+import 'package:dev_udemy_angelayu/mi_card_main.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(FlashChat());
+void main() {
+  runApp(MiCard());
+}
 
 class FlashChat extends StatelessWidget {
   @override
