@@ -1,0 +1,19 @@
+.inline {
+  display: inline;
+}
+
+#section-header {
+  background: url("../images/bg-naoram-sea.jpg") center;
+  background-size: 100%;
+  color: #fff;
+}
+
+.title-header {
+  padding-left: 10px;
+}
+
+.section-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
